@@ -1,0 +1,3 @@
+S AbCd|e|f
+A Cd
+C c|*
